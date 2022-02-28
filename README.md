@@ -1,1 +1,8 @@
-# airbnb_melb
+# Melbourne Airbnb Analysis
+
+## Installations
+ - NumPy
+ - Pandas
+ - Seaborn
+ - Matplotlib
+ - Sklearn
